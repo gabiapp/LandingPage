@@ -97,6 +97,7 @@ form{
 
 }
 
+
 form [type="submit"]{
     height: 50px;
     width: 100px;
@@ -105,9 +106,11 @@ form [type="submit"]{
     font-weight: bold;
 }
 
+
 form [type="submit"]:hover{
     cursor: pointer;
 }
+
 
 input{
     margin-top: 10px;
@@ -116,4 +119,6 @@ input{
     border-radius: 20px;
     font-size: 15px;
 }
+
+
 
