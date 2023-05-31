@@ -1,0 +1,1 @@
+Olá, esse projeto contém uma landingpage com formulário para assinar a NewsLetter da empresa onde trabalho

@@ -1,0 +1,50 @@
+@media screen and (max-width: 760px) {
+
+    header{
+        flex-direction: column;
+    }
+
+    #information{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    main{
+        flex-direction:column;
+    }
+
+    h2{
+        font-size: 30px;
+        text-align: center;
+    }
+
+    p{
+        padding-top: 20px;
+        font-weight: lighter;
+        text-align: center;
+    }
+
+    form{
+        margin: 0 auto;
+        width: 100%
+    }
+
+    input{
+        align-self: center;
+    }
+
+    .logo{
+        flex-direction: column;
+        align-content: center;
+        height: fit-content;
+    }
+
+    .concept{
+        display: none;
+    }
+
+    ul{
+        text-align: center;
+    }
+
+}
